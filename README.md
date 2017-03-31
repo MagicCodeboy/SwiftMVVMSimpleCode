@@ -1,0 +1,3 @@
+# SwiftMVVMSimpleCode
+SwiftMVVM框架初试
+＃利用Swift的MVVM实现通过KVO监听模型颜色的变化改变视图的背景颜色，在视图中处理相关的请求的，缩小视图控制器中的代码。
